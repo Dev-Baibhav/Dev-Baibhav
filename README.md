@@ -69,24 +69,3 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Baibhav&theme=dark&hide_border=false"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Baibhav&layout=compact&theme=dark&hide_border=false&exclude_repo=repo1,repo2" />
-</p> -->
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Baibhav&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dev-Baibhav&icon=0&color=0"/>
-</p>
-
-<p align="center">
-  <i>Proudly created with GPRM</i>
-</p>
