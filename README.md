@@ -2,13 +2,13 @@
 <h1 align="center">👋 Hi, I'm Baibhav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Developer+Learner+Builder;Flutter+Swift+JavaScript;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Developer+Learner+Builder;Flutter+Swift+JavaScript;Turning+Ideas+Into+Products" width="720" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="[GIF_URL_HERE](https://raw.githubusercontent.com/Dev-Baibhav/Dev-Baibhav/refs/heads/main/stitch_landing_home_page.gif)" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThkc244Yjh1ZGEyejYybGdzcHg0ZGo4YTd4eXg3ZjNoNTA5Nm1zbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="720" />
 </p>
 
 ---
