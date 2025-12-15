@@ -70,9 +70,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Baibhav&theme=dark&hide_border=false"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Baibhav&layout=compact&theme=dark&hide_border=false&exclude_repo=repo1,repo2" />
-</p>
+</p> -->
 
 ---
 
