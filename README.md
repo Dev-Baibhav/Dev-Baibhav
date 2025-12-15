@@ -13,6 +13,26 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Baibhav&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Baibhav&theme=dark&hide_border=false"/>
+</p>
+
+---
+
+## 🧠 Problem Solving Power
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_baibhav_?theme=dark&font=Fira%20Code&ext=heatmap&radius=16" />
+</p>
+
+---
+
+
 ## 🌐 Socials
 <p align="center">
   <a href="https://discord.gg/RKDcJ4QS">
@@ -63,23 +83,4 @@
 <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Baibhav&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Baibhav&theme=dark&hide_border=false"/>
-</p>
-
----
-
-## 🧠 Problem Solving Power
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/_baibhav_?theme=dark&font=Fira%20Code&ext=heatmap&radius=16" />
 </p>
