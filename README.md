@@ -75,3 +75,11 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Baibhav&theme=dark&hide_border=false"/>
 </p>
+
+---
+
+## 🧠 Problem Solving Power
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_baibhav_?theme=dark&font=Fira%20Code&ext=heatmap&radius=16" />
+</p>
