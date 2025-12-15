@@ -1,83 +1,92 @@
-<!-- ===== HEADER ===== -->
-<h1 align="center">Hey 👋, I'm Vaibhav</h1>
-<h3 align="center">Full-Stack Developer | Flutter & iOS (Swift) | Cloud Enthusiast</h3>
+<!-- ================= HEADER ================= -->
+<h1 align="center">👋 Hi, I'm Baibhav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Apps+%26+Web+Products;Flutter+%7C+Swift+%7C+Node.js;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Developer+%7C+Learner+%7C+Builder;Flutter+%7C+Swift+%7C+JavaScript;Turning+Ideas+Into+Products+🚀" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 <p align="center">
-  <a href="https://discord.gg/RKDcJ4QS"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.instagram.com/__baibhav__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kumar-baibhav-075a91245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Baibhav__"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="mailto:baibhavktr05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.gg/https://discord.gg/RKDcJ4QS">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/__baibhav__/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kumar-baibhav-075a91245/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/https://x.com/Baibhav__">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:baibhavktr05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💡 About Me
-- 🎓 BCA Student & Fresher Developer  
-- 📱 Building **Flutter & iOS apps (Swift / SwiftUI)**  
-- 🌐 Full-stack with **Node.js, MongoDB, Firebase**  
-- ☁️ Exploring **AWS & Docker**
-- 🚀 Founder & Builder mindset  
+## 💻 Tech Stack
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-## 🛠️ Tech Stack
+<br/>
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,swift,ts,js" />
-</p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens"/>
+<img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-### 📱 App & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs" />
-</p>
+<br/>
 
-### ☁️ Backend & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,aws" />
-</p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Baibhav&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Baibhav&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Baibhav&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Baibhav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dev-Baibhav&theme=dark&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Baibhav&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Baibhav&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dev-Baibhav&icon=5&color=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Baibhav&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ---
 
 <p align="center">
-  🚀 <i>“Code. Build. Break. Learn. Repeat.”</i>
+  <img src="https://visitcount.itsvg.in/api?id=Dev-Baibhav&icon=0&color=0"/>
+</p>
+
+<p align="center">
+  <i>Proudly created with GPRM</i>
 </p>
