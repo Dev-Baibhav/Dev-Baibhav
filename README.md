@@ -9,16 +9,16 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://discord.gg/https://discord.gg/RKDcJ4QS">
+  <a href="https://discord.gg/RKDcJ4QS">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/__baibhav__/">
+  <a href="https://www.instagram.com/__baibhav__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kumar-baibhav-075a91245/">
+  <a href="https://www.linkedin.com/in/kumar-baibhav-075a91245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/https://x.com/Baibhav__">
+  <a href="x.com/https://x.com/Baibhav__">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:baibhavktr05@gmail.com">
