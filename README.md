@@ -66,10 +66,14 @@
 ---
 
 ## 🌐 Socials
+
 <p align="center">
-  <a href="https://discord.gg/RKDcJ4QS">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/1304329917181198357">
+    <img src="https://lanyard.cnrad.dev/api/1304329917181198357?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/__baibhav__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
