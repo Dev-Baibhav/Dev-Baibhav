@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Baibhav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Developer+%7C+Learner+%7C+Builder;Flutter+%7C+Swift+%7C+JavaScript;Turning+Ideas+Into+Products+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Developer+Learner+Builder;Flutter+Swift+JavaScript;Turning+Ideas+Into+Products" />
 </p>
 
 ---
