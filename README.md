@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="[GIF_URL_HERE](https://raw.githubusercontent.com/Dev-Baibhav/Dev-Baibhav/refs/heads/main/stitch_landing_home_page.gif)" width="400" />
+</p>
+
+---
+
 ## 🌐 Socials
 <p align="center">
   <a href="https://discord.gg/RKDcJ4QS">
